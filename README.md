@@ -23,5 +23,6 @@ php artisan migrate
 ## import data lxqidvn1_booksales_database_sql
 
 # run 
-php artisan serve --host=localhost --port=8080
+php artisan serve
+--host=localhost --port=8080
 
